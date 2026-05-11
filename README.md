@@ -1,23 +1,35 @@
-# Hi, I'm Dr. P P Karthikeyan
+# Hi, I'm Dr. P P Karthikeyan 👋
 
-PhD Researcher focused on Artificial Intelligence, Machine Learning, Computer Vision, and Scientific Discovery.
+PhD Researcher | AI/ML Engineer | Computer Vision Enthusiast
 
-## Current Research Interests
-- Astronomy AI
-- Galaxy and Star Detection
-- Deep Learning
-- Computer Vision
+I build AI solutions focused on:
+- Astronomy & Galaxy Detection
 - Environmental Intelligence
-- Research Publications
+- Computer Vision
+- Deep Learning Research
+- Scientific Discovery
 
 ## Current Projects
-- Forest Fire Prediction using Machine Learning
-- Object Detection Models
-- Generative AI Projects
-- Astronomy AI for Celestial Object Discovery
+🚀 Forest Fire Prediction using Machine Learning  
+🚀 Object Detection Models  
+🚀 Generative AI Applications  
+🚀 Galaxy & Star Detection using AI (In Progress)
 
-## Tools & Technologies
-Python | PyTorch | TensorFlow | OpenCV | Scikit-Learn | Git | SQL
+## Technical Skills
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+- TensorFlow
+- OpenCV
+- SQL
+- Git/GitHub
 
-## 2026 Goal
-Publish impactful research and contribute to :contentReference[oaicite:3]{index=3} Research.
+## Research Goal
+Publish impactful AI research and contribute to Google Research.
+
+## Currently Learning
+- Advanced Deep Learning
+- Research Publication Strategy
+- Astronomy AI
+- MLOps
